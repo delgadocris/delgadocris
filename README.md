@@ -22,7 +22,10 @@ Efficient, responsible person, ability to analyze systems and business logic, I 
     height="70px" 
     style="margin: 10px"
     src="./assets/javascript.svg"> &nbsp; &nbsp;
-    
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/ruby.svg"> &nbsp; &nbsp;  
 <!--
 **delgadocris/delgadocris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
