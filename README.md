@@ -1,6 +1,6 @@
 <img src="./assets/greetings.gif">
 
-##### Hi, I'm Cristina Ramirez, I'm a computer engineer and software developer with more than 10 years of experience as backend developer, web application development, API REST services for mobile applications.
+#### Hi, I'm Cristina Ramirez, I'm a computer engineer and software developer with more than 10 years of experience as backend developer, web application development, API REST services for mobile applications.
 
 Programming languages: Ruby, PHP, C, C++, C#, CSS, JavaScript.
 
